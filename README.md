@@ -1,41 +1,34 @@
-### Hi there 👋, my name is Mahmoud Abdullah
-#### I am a Web Developer
-![I am a Web Developer](https://pbs.twimg.com/profile_banners/990672398096756736/1664610371/1500x500)
+<h1 align="center">Hi 👋, I'm Mahmoud Abdullah 🌹🌹</h1>
+<h2 align="center">Frontend Developer 💎</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💕" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbdullahAnani&label=Profile%20views&color=004080&style=flat" alt="mahmoud-abdullah-anani" height="40" width="240" /> -->
+	           <img src="https://img.shields.io/github/followers/MahmoudAbdullahAnani?label=Followers&color=800000&style=flat" alt="mahmoud-abdullah-anani" height="40" width="160" />
+</p>
+<br>
 
-“Work, and God will see your work, His Messenger, and the believers.”
-I am Mahmoud Abdullah Anani, I have been working as a web developer for three years. I have great experience in the field of web development, where I got a job opportunity in some companies and freelance work.
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-## Skills:
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="25px" alt="html"/> HTML5 
+## 📩 Connect with me
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="25px" alt="html"/> CSS3
- 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="25px" alt="html"/> JS 
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmoud-abdullah-ab253920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011192833917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="50" width="60" /></a>
+<a href="https://www.instagram.com/mahmoudabdallah6158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.hemeda11" height="50" width="60" /></a>
+</p>
 
-* <img src="https://myovchev.gallerycdn.vsassets.io/extensions/myovchev/corllete-es6-snippets/0.0.4/1567775022758/Microsoft.VisualStudio.Services.Icons.Default" width="25px" alt="html"/> ES6 
+## 🛠 Languages and Tools
 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGQmTrsrPICcHVwZUQ4pExZ99h_kcHrRnrgrtz8jLns-Cic-9aWxgdaDHcS84x52Yh3U&usqp=CAU" width="25px" alt="html"/> JOSN 
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> </p>
 
-* <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="25px" alt="html"/> BOOTSTRAP5 
+<img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="300"/>
 
-* <img src="https://miro.medium.com/max/1024/1*5RFMNfxHTvlAf22ZZX-fUQ.png" width="25px" alt="html"/> TALLWIND 
+## 📊 GitHub Stats
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="25px" alt="html"/> SCSS 
+<p align="left"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbdullahAnani&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mahmoud-abdullah-anani" /> </p>
+<p align="left"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&show_icons=true&locale=en&theme=tokyonight" alt="mahmoud-abdullah-anani" /> </p>
 
-* <img src="https://w7.pngwing.com/pngs/500/498/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png" width="25px" alt="html"/> REST APIs
- 
-* <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="25px" alt="html"/> REACTJS 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2_t6osRv3y3NFgK-T5GwjlvUNX6SAF43PA&usqp=CAU" width="25px" alt="html"/> GIT & GITHUB
+## 🏆 GitHub Profile Trophies
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Management Information Systems. 
-- 💬 Ask me about All about web development 
-
-
-<img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" width="400px" alt="gif web" />
-<img src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" width="400px" alt="gif web" />
-<img src="https://www.touchmediaads.com/forimg/webiste.gif" alt="gif web" width="400px" />
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MahmoudAbdullahAnani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahmoud-abdullah-ab253920b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100011192833917)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahmoudabdallah6158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mahmoud02136886)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mahmoud_abdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/MahmoudAbdullahAnani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18455636/mahmoud-abdullah-anani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCnfdCmY1GR4APYsP38k8hXA)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbdullahAnani&theme=algolia" alt="mahmoud-abdullah-anani" /></a> </p>
