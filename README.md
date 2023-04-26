@@ -26,6 +26,6 @@
 ---
 <br>
 
-[![] <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="400" width="600" />
+[![] <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="800" width="900" />
 
 
