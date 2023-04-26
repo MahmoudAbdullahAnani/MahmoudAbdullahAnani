@@ -7,9 +7,9 @@
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<hr/>
 
-## 📩 Connect with me
-
+<h1>## 📩 Connect with me</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-abdullah-ab253920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011192833917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
@@ -18,10 +18,12 @@
 <!--  -->
 <a href="https://www.youtube.com/channel/UCnfdCmY1GR4APYsP38k8hXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
 </p>
-# 📊 GitHub Stats:
+<hr/>
+<h1>## 📊 GitHub Stats:</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
 <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="700" width="900" />
 
 
