@@ -18,4 +18,9 @@
 <!--  -->
 <a href="https://www.youtube.com/channel/UCnfdCmY1GR4APYsP38k8hXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=MahmoudAbdullahAnani&icon=0&color=0)](https://visitcount.itsvg.in)
