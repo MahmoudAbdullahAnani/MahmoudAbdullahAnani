@@ -22,10 +22,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-<br>
-
-[![] <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="800" width="900" />
+<img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="700" width="900" />
 
 
