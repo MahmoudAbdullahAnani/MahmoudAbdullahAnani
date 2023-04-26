@@ -24,8 +24,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![] <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="40" width="160" />
-
 <br>
 
-![Snake animation](https://github.com/MahmoudAbdullahAnani/blob/output/github-user-contribution.svg)
+[![] <img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="400" width="600" />
+
+
