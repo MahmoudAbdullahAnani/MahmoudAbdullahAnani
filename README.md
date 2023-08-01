@@ -1,29 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Abdullah 🌹🌹</h1>
-<h2 align="center">Frontend Developer 💎</h2>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💕" /> </p>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbdullahAnani&label=Profile%20views&color=004080&style=flat" alt="mahmoud-abdullah-anani" height="40" width="240" /> -->
-	           <img src="https://img.shields.io/github/followers/MahmoudAbdullahAnani?label=Followers&color=800000&style=flat" alt="mahmoud-abdullah-anani" height="40" width="160" />
-</p>
-<br>
-
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-<hr/>
-
-<h1>📩 Connect with me</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-abdullah-ab253920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
-<a href="https://www.facebook.com/profile.php?id=100011192833917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
-<a href="https://www.instagram.com/mahmoudabdallah6158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
-</p>
-<!--  -->
-<a href="https://www.youtube.com/channel/UCnfdCmY1GR4APYsP38k8hXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoud-abdullah-anani" height="50" width="60" /></a>
-</p>
-<hr/>
-<h1>📊 GitHub Stats:</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr/>
-<img src="./github-user-contribution.svg" alt="mahmoud-abdullah-anani" height="700" width="900" />
+# Hi there, I'm Ahmed! 👋
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&layout=compact"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+# 📚 Frameworks and Libraries
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&badgeColor=010101"/><br/><br/>
+
+<br/>
+
+# 📋 Programming Languages
+
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/php%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/vb%23-%23239120.svg?style=for-the-badge&logo=vb&logoColor=white"/>
+
+
+<br/>
+<br/>
+<br/>
+
+# 💾 Databases and ORM
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
