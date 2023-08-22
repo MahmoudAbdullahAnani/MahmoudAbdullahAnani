@@ -16,6 +16,7 @@
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react-native-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&badgeColor=010101"/><br/><br/>
 
 <br/>
