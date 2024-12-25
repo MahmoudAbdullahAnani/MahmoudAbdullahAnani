@@ -1,4 +1,4 @@
-# Hi there, I'm Mahmoud Abdullah! 👋
+# Hi there, I'm Mahmoud Anani! 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbdullahAnani&show_icons=true&theme=gruvbox"/>
 <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdullahAnani&layout=compact"/>
 <br/>
